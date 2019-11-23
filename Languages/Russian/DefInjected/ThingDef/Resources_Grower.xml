@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QE_NutrientSolution.label>питательный раствор</QE_NutrientSolution.label>
+  <QE_NutrientSolution.description>Смесь из воды, аминокислот, жиров и витаминов для выращивания клонов или органов.</QE_NutrientSolution.description>
+
+  <QE_ProteinMash.label>белковая масса</QE_ProteinMash.label>
+  <QE_ProteinMash.description>Белок из разных источников смешивался вместе в отвратительную кашу. Идеально подходит для растущих органов и живых существ.</QE_ProteinMash.description>
+
+  <Meat_QESynthMeat.label>синтетическое мясо</Meat_QESynthMeat.label>
+  <Meat_QESynthMeat.description>Похоже на мясо присутствуют несколько сухожилий и кусочков жира. Однако вкус оставляет желать лучшего.</Meat_QESynthMeat.description>
+
+
+</LanguageData>

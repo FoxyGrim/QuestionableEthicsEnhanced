@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QE_VatGrownCloneConfusion.stages.0.label>выращенный клон</QE_VatGrownCloneConfusion.stages.0.label>
+  <QE_VatGrownCloneConfusion.stages.0.description>Что это такое? Кто я такой? Кто эти люди? Почему я здесь? Почему я выгляжу как кто-то другой?</QE_VatGrownCloneConfusion.stages.0.description>
+
+  <QE_VatGrownCloneAcceptance.stages.0.label>выращенный клон (принятие)</QE_VatGrownCloneAcceptance.stages.0.label>
+  <QE_VatGrownCloneAcceptance.stages.0.description>У меня нет выбора кроме как жить дальше. Ничего не имеет смысла.</QE_VatGrownCloneAcceptance.stages.0.description>
+
+
+</LanguageData>

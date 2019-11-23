@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QE_GenomeSequencing.label>определение генома</QE_GenomeSequencing.label>
+  <QE_GenomeSequencing.description>Секвенирует геном живого существа. Делать это с существами в нейтральных или союзных фракциях будет считаться нарушением.</QE_GenomeSequencing.description>
+  <QE_GenomeSequencing.jobString>Определение генома.</QE_GenomeSequencing.jobString>
+
+  <QE_Make_GenomeSequencer.label>Создать секвенсор генома</QE_Make_GenomeSequencer.label>
+  <QE_Make_GenomeSequencer.description>Создание секвенсора генома.</QE_Make_GenomeSequencer.description>
+  <QE_Make_GenomeSequencer.jobString>Создает секвенсор генома.</QE_Make_GenomeSequencer.jobString>
+
+
+</LanguageData>

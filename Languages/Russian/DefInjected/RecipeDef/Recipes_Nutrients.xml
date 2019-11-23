@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Distillation -->
+
+  <Make_NutrientSolutionFromOrganics.label>изготовить питательный раствор органически</Make_NutrientSolutionFromOrganics.label>
+  <Make_NutrientSolutionFromOrganics.description>Произвести партию питательного раствора, извлекая питательные вещества из органического сырья.</Make_NutrientSolutionFromOrganics.description>
+  <Make_NutrientSolutionFromOrganics.jobString>Очистка питательного раствора из органических веществ.</Make_NutrientSolutionFromOrganics.jobString>
+
+  <Make_ProteinMashFromOrganics.label>изготовить белковую массу из органических веществ</Make_ProteinMashFromOrganics.label>
+  <Make_ProteinMashFromOrganics.description>Приготовить партию белковой массы путем извлечения белка из богатого белком сырья.</Make_ProteinMashFromOrganics.description>
+  <Make_ProteinMashFromOrganics.jobString>Очистка белковой массы из органических веществ.</Make_ProteinMashFromOrganics.jobString>
+
+ <Make_ProteinMashFromNutrientSolution.label>сделать белковую массу из питательного раствора</Make_ProteinMashFromNutrientSolution.label>
+  <Make_ProteinMashFromNutrientSolution.description>Сделайте белковую массу из питательного раствора.  Процесс является медленным и затратным, интенсивным из-за ферментов, необходимых для синтеза белка.</Make_ProteinMashFromNutrientSolution.description>
+  <Make_ProteinMashFromNutrientSolution.jobString>Синтезирование белковой массы из питательного раствора.</Make_ProteinMashFromNutrientSolution.jobString>
+
+
+  <!-- Cooking -->
+
+  <Make_QESynthMeat.label>синтезировать синтетическое мясо из белковой массы.</Make_QESynthMeat.label>
+  <Make_QESynthMeat.description>Создать синтетическое мясо.</Make_QESynthMeat.description>
+  <Make_QESynthMeat.jobString>Создает синтетическое мясо из белковой массы.</Make_QESynthMeat.jobString>
+
+  <Make_QENutrientPaste.label>сделать питательную пасту из питательного раствора</Make_QENutrientPaste.label>
+  <Make_QENutrientPaste.description>Делать питательную пасту.</Make_QENutrientPaste.description>
+  <Make_QENutrientPaste.jobString>Делает питательную пасту.</Make_QENutrientPaste.jobString>
+
+
+  <!-- Drugs -->
+
+  <Make_QENeutroamine.label>Сделать нейроатмин из питательного раствора и белковой массы</Make_QENeutroamine.label>
+  <Make_QENeutroamine.description>Делать нейроатмин.</Make_QENeutroamine.description>
+  <Make_QENeutroamine.jobString>Синтезирует нейроатмин из питательного раствора и белковой массы.</Make_QENeutroamine.jobString>
+
+
+</LanguageData>

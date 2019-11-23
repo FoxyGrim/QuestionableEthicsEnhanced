@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QE_BrainScanning.label>сканирование мозга</QE_BrainScanning.label>
+  <QE_BrainScanning.description>Полное сканирование мозга донора. Донор заработает сильное головокружение при этом. Внимание, для нейтральных или дружественных персонажей это является враждебным действием.</QE_BrainScanning.description>
+  <QE_BrainScanning.jobString>Сканирует мозг.</QE_BrainScanning.jobString>
+
+  <QE_Make_BrainScanner.label>создавать сканер мозга</QE_Make_BrainScanner.label>
+  <QE_Make_BrainScanner.description>Делать сканер мозга.</QE_Make_BrainScanner.description>
+  <QE_Make_BrainScanner.jobString>Делает сканер мозга.</QE_Make_BrainScanner.jobString>
+
+
+</LanguageData>

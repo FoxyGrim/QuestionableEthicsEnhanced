@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QE_MaintainVat.label>Обслуживание чана</QE_MaintainVat.label>
+  <QE_MaintainVat.description>Поддерживает в рабочем состоянии органические чаны, используя как медицинские, так и аналитические знания.</QE_MaintainVat.description>
+  <QE_MaintainVat.labelShort>Обслуживание чана</QE_MaintainVat.labelShort>
+  <QE_MaintainVat.pawnLabel>Биолог</QE_MaintainVat.pawnLabel>
+  <QE_MaintainVat.gerundLabel>Обслуживает</QE_MaintainVat.gerundLabel>
+  <QE_MaintainVat.verb>Обслуживает</QE_MaintainVat.verb>
+
+
+</LanguageData>

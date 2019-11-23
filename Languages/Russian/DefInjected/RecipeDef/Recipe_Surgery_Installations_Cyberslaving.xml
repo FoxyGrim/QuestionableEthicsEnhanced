@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QE_InstallNerveStaple.label>установить подавитель нервных сигналов</QE_InstallNerveStaple.label>
+  <QE_InstallNerveStaple.description>установить подавитель нервных сигналов, который позволит насильно присоединить цель к вашей колонии.</QE_InstallNerveStaple.description>
+  <QE_InstallNerveStaple.jobString>Подавитель нервных сигналов</QE_InstallNerveStaple.jobString>
+
+  <QE_Make_NerveStaples.label>сделать подавитель нервных сигналов</QE_Make_NerveStaples.label>
+  <QE_Make_NerveStaples.description>Сделать подавитель нервных сигналов.</QE_Make_NerveStaples.description>
+  <QE_Make_NerveStaples.jobString>делает подавитель нервных сигналов.</QE_Make_NerveStaples.jobString>
+
+
+</LanguageData>

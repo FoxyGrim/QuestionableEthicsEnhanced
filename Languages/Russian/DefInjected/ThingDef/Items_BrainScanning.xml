@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QE_BrainScanner.label>сканер мозга</QE_BrainScanner.label>
+  <QE_BrainScanner.description>Набор инструментов, используемых для картирования мозговых волн живых существ. Хирург использует это для аккуратного отображения мозга пациента на шаблон сканирования мозга. При использовании на людях он будет фиксировать их умения и страсти. При использовании на животных он запечатлит их обучение.</QE_BrainScanner.description>
+
+  <QE_BrainScannerFilled.label>шаблон сканирования мозга</QE_BrainScannerFilled.label>
+  <QE_BrainScannerFilled.description>Хранилище данных заполненное полной нейронной сетью мозга живого существа. Выбрав колониста щелкните на нее правой кнопкой мыши и выберите другого колониста(клона), чтобы применить шаблон к ней.</QE_BrainScannerFilled.description>
+
+
+</LanguageData>

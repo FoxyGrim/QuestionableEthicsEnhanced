@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Organ Vat -->
+
+  <QE_OrderProcessor_OrganVat.label>технологический заказ для органического чана</QE_OrderProcessor_OrganVat.label>
+  <QE_OrderProcessor_OrganVat.verb>заполнить</QE_OrderProcessor_OrganVat.verb>
+  <QE_OrderProcessor_OrganVat.gerund>заполняет</QE_OrderProcessor_OrganVat.gerund>
+
+  <QE_OrganVat_Extract.label>экстракция продукта из органического чана</QE_OrganVat_Extract.label>
+  <QE_OrganVat_Extract.verb>вытащить</QE_OrganVat_Extract.verb>
+  <QE_OrganVat_Extract.gerund>вытаскивает</QE_OrganVat_Extract.gerund>
+
+  <QE_OrganGrower_Maintain.label>обслуживание органического чана</QE_OrganGrower_Maintain.label>
+  <QE_OrganGrower_Maintain.verb>обслуживать</QE_OrganGrower_Maintain.verb>
+  <QE_OrganGrower_Maintain.gerund>обслуживает</QE_OrganGrower_Maintain.gerund>
+
+
+  <!-- Pawn Grower -->
+
+  <QE_OrderProcessor_PawnVat.label>технологический заказ для чана клонирования</QE_OrderProcessor_PawnVat.label>
+  <QE_OrderProcessor_PawnVat.verb>заполнить</QE_OrderProcessor_PawnVat.verb>
+  <QE_OrderProcessor_PawnVat.gerund>заполняет</QE_OrderProcessor_PawnVat.gerund>
+
+  <QE_PawnVat_Extract.label>экстракция продукта из чана клонирования</QE_PawnVat_Extract.label>
+  <QE_PawnVat_Extract.verb>вытащить</QE_PawnVat_Extract.verb>
+  <QE_PawnVat_Extract.gerund>вытаскивает</QE_PawnVat_Extract.gerund>
+
+  <QE_PawnGrower_Maintain.label>обслуживание чана клонирования</QE_PawnGrower_Maintain.label>
+  <QE_PawnGrower_Maintain.verb>обслуживать</QE_PawnGrower_Maintain.verb>
+  <QE_PawnGrower_Maintain.gerund>обслуживает</QE_PawnGrower_Maintain.gerund>
+
+
+</LanguageData>

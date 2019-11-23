@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QE_DepositIntoGrowerJob.reportString>заполнение TargetA в TargetB.</QE_DepositIntoGrowerJob.reportString>
+  <QE_ExtractFromGrowerJob.reportString>извлечение из TargetA.</QE_ExtractFromGrowerJob.reportString>
+  <QE_MaintainGrowerJob_Intellectual.reportString>отслеживание и корректировка TargetA.</QE_MaintainGrowerJob_Intellectual.reportString>
+  <QE_MaintainGrowerJob_Medicine.reportString>>регулирование значения для TargetA.</QE_MaintainGrowerJob_Medicine.reportString>
+
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Backstory_ColonyVatgrown.title>выращенная колония</Backstory_ColonyVatgrown.title>
+  <Backstory_ColonyVatgrown.titleShort>выращенная</Backstory_ColonyVatgrown.titleShort>
+  <Backstory_ColonyVatgrown.baseDesc>[PAWN_nameDef] выращивается из колонии клеток. Не образованный и не квалифицированный, но с большими способностями к обучению.</Backstory_ColonyVatgrown.baseDesc>
+
+
+</LanguageData>

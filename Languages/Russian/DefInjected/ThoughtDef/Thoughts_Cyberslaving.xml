@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QE_NerveStapled.stages.0.label>нерво-подавитель</QE_NerveStapled.stages.0.label>
+  <QE_NerveStapled.stages.0.description>Я чувствую себя странно. Я должен подчиниться.</QE_NerveStapled.stages.0.description>
+
+  <QE_RecentlyNerveStapled.stages.0.label>недавно подавлялись нервные сигналы</QE_RecentlyNerveStapled.stages.0.label>
+  <QE_RecentlyNerveStapled.stages.0.description>Аххх! Что со мной произошло!?</QE_RecentlyNerveStapled.stages.0.description>
+
+  <QE_NerveStapledResistance.stages.0.label>нерво-подавитель (сопротивление)</QE_NerveStapledResistance.stages.0.label>
+  <QE_NerveStapledResistance.stages.0.description>Угх! Надо сопротивляться. Как-нибудь...</QE_NerveStapledResistance.stages.0.description>
+
+  <QE_NerveStapledPawn.stages.0.label>кто-то с подавителем нервов</QE_NerveStapledPawn.stages.0.label>
+  <QE_NerveStapledPawn.stages.0.description>Это ужасно! Мы отняли свободу воли у разумного существа.</QE_NerveStapledPawn.stages.0.description>
+
+  <QE_NerveStapledColonist.stages.0.label>колонист с подавителем нервов</QE_NerveStapledColonist.stages.0.label>
+  <QE_NerveStapledColonist.stages.0.description>Это ужасно! Мы отняли свободу воли у одного из нас.</QE_NerveStapledColonist.stages.0.description>
+
+  <QE_NerveStapledMe.stages.0.label>сам с нерво-подавителем</QE_NerveStapledMe.stages.0.label>
+
+
+</LanguageData>

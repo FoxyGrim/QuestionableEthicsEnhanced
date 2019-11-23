@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Natural_Lung.label>обычные легкие</Natural_Lung.label>
+  <Natural_Heart.label>обычное сердце</Natural_Heart.label>
+  <Natural_Kidney.label>обычные почки</Natural_Kidney.label>
+  <Natural_Stomach.label>обычный желудок</Natural_Stomach.label>
+  <Natural_Liver.label>обычная печень</Natural_Liver.label>
+  <Natural_Eye.label>обычные глаза</Natural_Eye.label>
+  <Natural_Ear.label>обычные уши</Natural_Ear.label>
+  <Natural_Nose.label>обычный нос</Natural_Nose.label>
+  <Natural_Jaw.label>обычная челюсть</Natural_Jaw.label>
+  <Natural_Spine.label>обычный позвоночник</Natural_Spine.label>
+  <Natural_Pelvis.label>обычный таз</Natural_Pelvis.label>
+  <Natural_Arm.label>обычная рука</Natural_Arm.label>
+  <Natural_Hand.label>обычная кисть</Natural_Hand.label>
+  <Natural_Leg.label>обычная нога</Natural_Leg.label>
+  <Natural_Foot.label>обычная ступня</Natural_Foot.label>
+
+
+</LanguageData>

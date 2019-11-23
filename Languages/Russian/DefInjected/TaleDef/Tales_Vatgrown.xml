@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QE_Vatgrown.label>выращенный клон</QE_Vatgrown.label>
+  <QE_Vatgrown.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] выращен в чане для клонирования</QE_Vatgrown.rulePack.rulesStrings.0>
+  <QE_Vatgrown.rulePack.rulesStrings.1>image->[PAWN_nameFull] вышел из чана для клонирования [circumstance_group]</QE_Vatgrown.rulePack.rulesStrings.1>
+  <QE_Vatgrown.rulePack.rulesStrings.2>image->[PAWN_nameFull] искусственная жизнь из чана для клонирования [circumstance_group]</QE_Vatgrown.rulePack.rulesStrings.2>
+  <QE_Vatgrown.rulePack.rulesStrings.3>circumstance_phrase->с пустым взглядом</QE_Vatgrown.rulePack.rulesStrings.3>
+  <QE_Vatgrown.rulePack.rulesStrings.4>circumstance_phrase->с удивлением на лице</QE_Vatgrown.rulePack.rulesStrings.4>
+  <QE_Vatgrown.rulePack.rulesStrings.5>circumstance_phrase->и [PAWN_pronoun] начинает плакать</QE_Vatgrown.rulePack.rulesStrings.5>
+  <QE_Vatgrown.rulePack.rulesStrings.6>circumstance_phrase->с уверенным взглядом</QE_Vatgrown.rulePack.rulesStrings.6>
+  <QE_Vatgrown.rulePack.rulesStrings.7>circumstance_phrase->Покрыт питательным веществом</QE_Vatgrown.rulePack.rulesStrings.7>
+  <QE_Vatgrown.rulePack.rulesStrings.8>circumstance_phrase->осторожно касается [PAWN_possessive] лица</QE_Vatgrown.rulePack.rulesStrings.8>
+  <QE_Vatgrown.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun] недоумевает о том, что происходит вокруг [PAWN_objective].</QE_Vatgrown.rulePack.rulesStrings.9>
+  <QE_Vatgrown.rulePack.rulesStrings.10>desc_sentence->[PAWN_pronoun] Невероятно запутался [PAWN_possessive] новой обстановке.</QE_Vatgrown.rulePack.rulesStrings.10>
+  <QE_Vatgrown.rulePack.rulesStrings.11>desc_sentence->[PAWN_pronoun] хочет обратно в безопасный чан.</QE_Vatgrown.rulePack.rulesStrings.11>
+  <QE_Vatgrown.rulePack.rulesStrings.12>desc_sentence->[PAWN_pronoun] едва ли может понять что происходит.</QE_Vatgrown.rulePack.rulesStrings.12>
+  <QE_Vatgrown.rulePack.rulesStrings.13>desc_sentence->[PAWN_pronoun] произносит несколько бессвязных слов.</QE_Vatgrown.rulePack.rulesStrings.13>
+  <QE_Vatgrown.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun] начинает истерически плакать, увидев [Animal] в первый раз.</QE_Vatgrown.rulePack.rulesStrings.14>
+  <QE_Vatgrown.rulePack.rulesStrings.15>desc_sentence->A [Animal] смотрит с любопытством на лице.</QE_Vatgrown.rulePack.rulesStrings.15>
+  <QE_Vatgrown.rulePack.rulesStrings.16>desc_sentence->A [Animal] смотрит с отвращением на лице.</QE_Vatgrown.rulePack.rulesStrings.16>
+  <QE_Vatgrown.rulePack.rulesStrings.17>desc_sentence->A [PersonJob] смотрит с трепетом на то, что происходит вокруг.</QE_Vatgrown.rulePack.rulesStrings.17>
+  <QE_Vatgrown.rulePack.rulesStrings.18>desc_sentence->A [PersonJob] смотрит со страхом на лице.</QE_Vatgrown.rulePack.rulesStrings.18>
+  <QE_Vatgrown.rulePack.rulesStrings.19>desc_sentence->A [PersonJob] смотрит с похотливым лицом.</QE_Vatgrown.rulePack.rulesStrings.19>
+
+
+</LanguageData>

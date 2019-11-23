@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QE_OrganRejection.label>трансплантация органа</QE_OrganRejection.label>
+  <QE_OrganRejection.stages.0.label>легкое отторжение</QE_OrganRejection.stages.0.label>
+  <QE_OrganRejection.stages.1.label>умеренное отторжение</QE_OrganRejection.stages.1.label>
+  <QE_OrganRejection.stages.2.label>серьезное отторжение</QE_OrganRejection.stages.2.label>
+  <QE_OrganRejection.stages.3.label>критическое отторжение</QE_OrganRejection.stages.3.label>
+
+
+</LanguageData>

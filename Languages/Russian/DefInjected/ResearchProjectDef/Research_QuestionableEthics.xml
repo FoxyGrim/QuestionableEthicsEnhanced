@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Main research path to cloning -->
+
+  <QE_Distillation.label>биологическая дистилляция</QE_Distillation.label>
+  <QE_Distillation.description>Позволяет выделать питательный раствор и белковую массу, это необходимо для выращивания живой плоти в био-чанах.</QE_Distillation.description>
+
+  <QE_OrganVat.label>органический чан</QE_OrganVat.label>
+  <QE_OrganVat.description>Построить чан который выращивает органы из питательного раствора и белка.  Первым шагом к пониманию того как вырастить полноценных живых существ является выращивание их частей.</QE_OrganVat.description>
+
+  <QE_GenomeSequencing.label>секвестирование генома</QE_GenomeSequencing.label>
+  <QE_GenomeSequencing.description>Органы достаточно просто выращивать, если есть стволовые клетки и разбираешься в питательных растворах. Совершенно другое - если создаешь что то с нуля. Для этого вам нужны инструменты и последовательность генетического кода, получить которую можно двумя способами: вытащить из живого существа в качестве операции или отправить подходящий труп на переработку.</QE_GenomeSequencing.description>
+
+  <QE_VatGrownBeings.label>чан для клонирования</QE_VatGrownBeings.label>
+  <QE_VatGrownBeings.description>Последняя часть головоломки. Объединив геном и питательный раствор, можно выращивать живых существ. Большие существа нуждаются в увеличении количества питательных веществ и белков. Для гуманоидов вам все равно будет нужно либо обучать их сначала, либо использовать скан мозга для передачи некоторых навыков донора.</QE_VatGrownBeings.description>
+
+
+  <!-- Chemistry -->
+
+  <QE_AdvancedRefining.label>передовая переработка</QE_AdvancedRefining.label>
+  <QE_AdvancedRefining.description>Синтезировать белковую массу из питательного раствора на перегонном аппарате. Достижения в химии позволили таким образом перехватывать естественные биологические процессы.</QE_AdvancedRefining.description>
+
+  <QE_Neutroamine.label>синтез нейроатмина</QE_Neutroamine.label>
+  <QE_Neutroamine.description>Разумно используя стволовые клетки и био-инженерию можно синтезировать нейроатмин из питательного раствора и белковой массы. Нейроатмин можно создавать в химической лаборатории.</QE_Neutroamine.description>
+
+  <QE_Edibles.label>синтетическая еда</QE_Edibles.label>
+  <QE_Edibles.description>Создать синтетическую мясную и питательную пасту на кухонных плитах.</QE_Edibles.description>
+
+
+  <!-- All natural organs -->
+
+  <QE_OrganVat_InternalOrgans.label>естественные внутренние органы</QE_OrganVat_InternalOrgans.label>
+  <QE_OrganVat_InternalOrgans.description>Позволяет создавать естественные внутренние органы человека.</QE_OrganVat_InternalOrgans.description>
+
+  <QE_OrganVat_SensoryOrgans.label>естественные сенсорные органы</QE_OrganVat_SensoryOrgans.label>
+  <QE_OrganVat_SensoryOrgans.description>Позволяет создавать естественные глаза, носы и уши человека.</QE_OrganVat_SensoryOrgans.description>
+
+  <QE_OrganVat_Bones.label>натуральные кости</QE_OrganVat_Bones.label>
+  <QE_OrganVat_Bones.description>Позволяет создавать естественные кости.</QE_OrganVat_Bones.description>
+
+  <QE_OrganVat_Limbs.label>натуральные конечности</QE_OrganVat_Limbs.label>
+  <QE_OrganVat_Limbs.description>Позволяет создавать естественные руки, ноги, ступни ног и кисти рук.</QE_OrganVat_Limbs.description>
+
+
+  <!-- Brain manipulation -->
+
+  <QE_BrainScanning.label>сканирование мозга</QE_BrainScanning.label>
+  <QE_BrainScanning.description>Хоть мы и можем создавать гуманоидов буквально из ничего, они все же рождаются подобными детям, их приходится учить с самого начала. Теперь можно создать сканограмму мозга донора, что бы перенести навыки на новый организм. Это операция, которую можно провести как и любую другую. Все необходимые части можно создать на высокоточном станке.</QE_BrainScanning.description>
+
+
+  <!-- Cyber enslaving -->
+
+  <QE_NerveStapling.label>нерво-подавитель</QE_NerveStapling.label>
+  <QE_NerveStapling.description>Апофеоз всех темных сторон развития общества - этот имплантат стимулирует центры удовольствия и боли, превращая самого непослушного заключенного в преданного раба. Правда цена этого высока, у лишенных свободы воли способность к обучению затруднена. Можно использовать на клонах, что бы сделать их легко контролируемыми. Создается на верстаке.</QE_NerveStapling.description>
+
+
+</LanguageData>

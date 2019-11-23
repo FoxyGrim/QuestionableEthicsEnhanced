@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Natural -->
+
+  <QE_Organ_Eye.label>глаз</QE_Organ_Eye.label>
+  <QE_Organ_Eye.description>Человеческий глаз. Собирает свет и передает сигнал мозгу.</QE_Organ_Eye.description>
+
+  <QE_Organ_Ear.label>ухо</QE_Organ_Ear.label>
+  <QE_Organ_Ear.description>Человеческое ухо. Ловит звуковые волны извне и преобразует их в электрические сигналы для мозга.</QE_Organ_Ear.description>
+
+  <QE_Organ_Nose.label>нос</QE_Organ_Nose.label>
+  <QE_Organ_Nose.description>Нос человека. Выглядит красиво и позволяет вам чувствовать запах.</QE_Organ_Nose.description>
+
+  <QE_Organ_Jaw.label>челюсть</QE_Organ_Jaw.label>
+  <QE_Organ_Jaw.description>Челюсть человека. Челюсть в комплекте с языком и зубами. Позволяет адекватно жевать и принимать пищу.</QE_Organ_Jaw.description>
+
+  <QE_Organ_Stomach.label>желудок</QE_Organ_Stomach.label>
+  <QE_Organ_Stomach.description>Желудок человека. Разлагает пищу в энергию с помощью кислот и ферментов.</QE_Organ_Stomach.description>
+
+  <QE_Organ_Spine.label>позвоночник</QE_Organ_Spine.label>
+  <QE_Organ_Spine.description>Позвоночник человека. Поддерживает спину.</QE_Organ_Spine.description>
+
+  <QE_Organ_Pelvis.label>таз</QE_Organ_Pelvis.label>
+  <QE_Organ_Pelvis.description>Кости таза человека. К ним прикрепляются ноги и позвоночник.</QE_Organ_Pelvis.description>
+
+  <QE_Organ_Arm.label>рука</QE_Organ_Arm.label>
+  <QE_Organ_Arm.description>Человеческая рука. Прикрепляется к плечу, это позволяет вам носить и выполнять действия с вещами.</QE_Organ_Arm.description>
+
+  <QE_Organ_Hand.label>кисть</QE_Organ_Hand.label>
+  <QE_Organ_Hand.description>Кисть руки человека. Отлично подходит для удерживания оружия и операции с различными вещами.</QE_Organ_Hand.description>
+
+  <QE_Organ_Leg.label>нога</QE_Organ_Leg.label>
+  <QE_Organ_Leg.description>Нога человека. Прикрепленная к тазу она позволяет вам перемещаться.</QE_Organ_Leg.description>
+
+  <QE_Organ_Foot.label>ступня</QE_Organ_Foot.label>
+  <QE_Organ_Foot.description>Ступня ноги человека. Упрощает нисходящие движения и отлично подходит для ванночки для ног.</QE_Organ_Foot.description>
+
+
+</LanguageData>
