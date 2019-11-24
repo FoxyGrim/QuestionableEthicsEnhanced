@@ -81,7 +81,7 @@ This mod has been translated to the following languages:
 * KongMD - XML, C#, Preview art
 * Proxyer - Japanese Translation
 * EvaineQ - Cloning vat art
-* FoxyGrim - Russian language
+* FoxyGrim - Russian translation
 
 ## Special Thanks
 * erdelf, Mehni, Bar0th and Jamaican Castle for answering my modding questions
