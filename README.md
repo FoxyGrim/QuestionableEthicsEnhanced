@@ -75,11 +75,13 @@ If you run into errors when adding this mod to your modlist, please let me know 
 ## Translations
 This mod has been translated to the following languages:
 * Japanese
+* Russian language
 
 ## Credits
 * KongMD - XML, C#, Preview art
 * Proxyer - Japanese Translation
 * EvaineQ - Cloning vat art
+* FoxyGrim - Russian language
 
 ## Special Thanks
 * erdelf, Mehni, Bar0th and Jamaican Castle for answering my modding questions
